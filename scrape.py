@@ -78,3 +78,5 @@ def scrape_manuscript_pages(url, start_page=2, end_page=None):
 
 # Example usage:
 scrape_manuscript_pages("https://www.bdl.servizirl.it/bdl/bookreader/index.html?path=fe&cdOggetto=23675#page/2/mode/2up", start_page=60, end_page=576)
+
+
